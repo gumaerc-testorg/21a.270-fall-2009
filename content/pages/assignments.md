@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section describes the three essays assigned during the semester.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
